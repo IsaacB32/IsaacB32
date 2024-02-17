@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ✨ Aboute Me
+- ✨ Aboute Me: 
 My name is Isaac Browen, I am currently finishing my computer science degree at Chapman University!
 I have a passion for video game development with an emphasis in gameplay programming. I enjoy programming systems that utilise well formated and structured code.
 
-- 🔭 I’m currently working on
+- 🔭 Currently Working On: 
 A node based editor to create dialog trees within the Unity Game Engine
 A micro rouge-lite game using the DragonRuby game engine 
 A student research project involving recreating 3D motion captured within VR
 A computer science major, mathematics and game development minor at Chapman University 
 
-- 🌱 I’m currently learning
+- 🌱 Learning: 
 How to better structure my code for make it easily readable and expandable 
 Anything that I find interesting and worth my time (mostly programming languages, new coding technics, and fun facts about our world)
 
-- 💬 Ask me about
+- 💬 Ask Me About:
 Anything you want, I may or may not have an answer/opinion
