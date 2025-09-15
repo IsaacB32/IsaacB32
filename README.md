@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## ✨ Aboute Me ✨
 My name is Isaac Browen, I am currently finishing my computer science degree at Chapman University!
-I have a passion for video game development with an emphasis in gameplay programming. I enjoy learning new things and experimenting with stuff I've never seen before. 
+I have a passion for video game development with an emphasis in gameplay programming. I enjoy learning new things and experimenting with stuff I've never seen before. I am a board member for the Panther Devs (the game design club) and I am in charge of developing workshops designed to introduce beginners to game programming and design.
 
 ## 🧠 Skills 🧠 
 I have experience in Unity and Godot and have made several projects with each. I know C#, Java, C++, Python and a little bit of everything else (HTML, CSS, C, Rubuy, BASH, ...)
